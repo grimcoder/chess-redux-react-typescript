@@ -1,3 +1,4 @@
+hi
 ![https://travis-ci.org/jaysoo/todomvc-redux-react-typescript](https://api.travis-ci.org/jaysoo/todomvc-redux-react-typescript.svg)
 
 This is an implementation of [TodoMVC](http://todomvc.com/) built using:
